@@ -1,1 +1,1 @@
-Simple Project Management Tool written in Java Spring Boot and React.
+Simple Project Management Tool written in Java Spring and React.
